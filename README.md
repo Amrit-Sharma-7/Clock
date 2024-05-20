@@ -15,7 +15,9 @@ A simple web application that displays the current time in a digital clock forma
 
 ## Demo
 
-![Digital Clock Screenshot](screenshot.png)
+Check out the live demo [here](https://amrit-sharma-7.github.io/Clock/).
+
+![Digital Clock Screenshot](Clock-Demo.gif)
 
 ## Project Structure
 
